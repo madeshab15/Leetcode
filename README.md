@@ -12,6 +12,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/madeshab15/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/madeshab15/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/madeshab15/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Math
@@ -30,4 +31,8 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/madeshab15/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/madeshab15/Leetcode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
