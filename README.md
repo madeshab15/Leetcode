@@ -35,4 +35,12 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/madeshab15/Leetcode/tree/master/0027-remove-element) |
+## String
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/madeshab15/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/madeshab15/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
