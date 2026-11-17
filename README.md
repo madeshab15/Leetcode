@@ -18,6 +18,7 @@
 | [0053-maximum-subarray](https://github.com/madeshab15/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madeshab15/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/madeshab15/Leetcode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/madeshab15/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/madeshab15/Leetcode/tree/master/0283-move-zeroes) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/madeshab15/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Math
@@ -65,6 +66,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/madeshab15/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/madeshab15/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/madeshab15/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/madeshab15/Leetcode/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
@@ -73,6 +75,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/madeshab15/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/madeshab15/Leetcode/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
