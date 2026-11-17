@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/madeshab15/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/madeshab15/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -35,10 +36,12 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/madeshab15/Leetcode/tree/master/0027-remove-element) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/madeshab15/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## String
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/madeshab15/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/madeshab15/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Simulation
 |  |
 | ------- |
