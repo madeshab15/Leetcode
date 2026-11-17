@@ -12,6 +12,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/madeshab15/Leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/madeshab15/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/madeshab15/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/madeshab15/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -46,4 +47,8 @@
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/madeshab15/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/madeshab15/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
