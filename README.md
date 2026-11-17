@@ -50,6 +50,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/madeshab15/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/madeshab15/Leetcode/tree/master/0242-valid-anagram) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/madeshab15/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/madeshab15/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/madeshab15/Leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/madeshab15/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/madeshab15/Leetcode/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
@@ -70,4 +72,8 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/madeshab15/Leetcode/tree/master/0242-valid-anagram) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/madeshab15/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
