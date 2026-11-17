@@ -44,6 +44,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/madeshab15/Leetcode/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/madeshab15/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/madeshab15/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/madeshab15/Leetcode/tree/master/0283-move-zeroes) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/madeshab15/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/madeshab15/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/madeshab15/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/madeshab15/Leetcode/tree/master/0242-valid-anagram) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/madeshab15/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/madeshab15/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
