@@ -4,8 +4,8 @@ class Solution:
         min_pro=float('inf')
         for i in range(len(prices)):
             min_pro=min(min_pro,prices[i])
-            result=prices[i]-min_pro
-            max_pro=max(max_pro,result)
+            profit=prices[i]-min_pro
+            max_pro=max(max_pro,profit)
         return max_pro
 
 
