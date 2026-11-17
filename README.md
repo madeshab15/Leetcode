@@ -50,6 +50,7 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/madeshab15/Leetcode/tree/master/0242-valid-anagram) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/madeshab15/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/madeshab15/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Simulation
@@ -60,8 +61,13 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/madeshab15/Leetcode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/madeshab15/Leetcode/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/madeshab15/Leetcode/tree/master/0053-maximum-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/madeshab15/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
