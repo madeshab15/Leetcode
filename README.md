@@ -20,6 +20,7 @@
 | [0189-rotate-array](https://github.com/madeshab15/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/madeshab15/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/madeshab15/Leetcode/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/madeshab15/Leetcode/tree/master/0704-binary-search) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/madeshab15/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Math
 |  |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/madeshab15/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0704-binary-search](https://github.com/madeshab15/Leetcode/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
