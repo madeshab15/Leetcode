@@ -22,6 +22,7 @@
 | [0283-move-zeroes](https://github.com/madeshab15/Leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/madeshab15/Leetcode/tree/master/0704-binary-search) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/madeshab15/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/madeshab15/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Math
 |  |
 | ------- |
@@ -80,8 +81,13 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/madeshab15/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/madeshab15/Leetcode/tree/master/0242-valid-anagram) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/madeshab15/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/madeshab15/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Greedy
+|  |
+| ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/madeshab15/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 <!---LeetCode Topics End-->
