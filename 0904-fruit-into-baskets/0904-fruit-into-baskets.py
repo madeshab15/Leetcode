@@ -3,7 +3,6 @@ class Solution:
         count={}
         left=0
         result=0
-        max_type=0
         for right in range(len(fruits)):
             count[fruits[right]]=count.get(fruits[right],0)+1
             while len(count)>2:
