@@ -23,6 +23,7 @@
 | [0704-binary-search](https://github.com/madeshab15/Leetcode/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/madeshab15/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/madeshab15/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/madeshab15/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/madeshab15/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/madeshab15/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/madeshab15/Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/madeshab15/Leetcode/tree/master/0189-rotate-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/madeshab15/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/madeshab15/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Dynamic Programming
 |  |
@@ -44,6 +46,7 @@
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/madeshab15/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/madeshab15/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/madeshab15/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Binary Search
 |  |
@@ -115,4 +118,12 @@
 |  |
 | ------- |
 | [3331-find-subtree-sizes-after-changes](https://github.com/madeshab15/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/madeshab15/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/madeshab15/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
