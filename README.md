@@ -29,12 +29,14 @@
 | [2567-minimum-score-by-changing-two-elements](https://github.com/madeshab15/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/madeshab15/Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/madeshab15/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/madeshab15/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/madeshab15/Leetcode/tree/master/0189-rotate-array) |
 | [1352-product-of-the-last-k-numbers](https://github.com/madeshab15/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/madeshab15/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/madeshab15/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -113,6 +115,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/madeshab15/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/madeshab15/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/madeshab15/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/madeshab15/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Greedy
 |  |
 | ------- |
@@ -133,4 +136,12 @@
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/madeshab15/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/madeshab15/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/madeshab15/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
