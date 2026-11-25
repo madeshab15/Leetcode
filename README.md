@@ -33,6 +33,7 @@
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/madeshab15/Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/madeshab15/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/madeshab15/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3934-smallest-unique-subarray](https://github.com/madeshab15/Leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Math
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | [0704-binary-search](https://github.com/madeshab15/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/madeshab15/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/madeshab15/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [3934-smallest-unique-subarray](https://github.com/madeshab15/Leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -103,6 +105,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/madeshab15/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/madeshab15/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/madeshab15/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3934-smallest-unique-subarray](https://github.com/madeshab15/Leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -171,4 +174,16 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/madeshab15/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/madeshab15/Leetcode/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/madeshab15/Leetcode/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/madeshab15/Leetcode/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
