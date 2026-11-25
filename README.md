@@ -37,6 +37,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/madeshab15/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/madeshab15/Leetcode/tree/master/0189-rotate-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/madeshab15/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1352-product-of-the-last-k-numbers](https://github.com/madeshab15/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/madeshab15/Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/madeshab15/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madeshab15/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/madeshab15/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/madeshab15/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
@@ -186,4 +188,8 @@
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/madeshab15/Leetcode/tree/master/3934-smallest-unique-subarray) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/madeshab15/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
