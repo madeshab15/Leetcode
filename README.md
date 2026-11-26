@@ -56,6 +56,7 @@
 | [0198-house-robber](https://github.com/madeshab15/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/madeshab15/Leetcode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/madeshab15/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [1143-longest-common-subsequence](https://github.com/madeshab15/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/madeshab15/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/madeshab15/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/madeshab15/Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
@@ -93,6 +94,7 @@
 | [0125-valid-palindrome](https://github.com/madeshab15/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/madeshab15/Leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/madeshab15/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [1143-longest-common-subsequence](https://github.com/madeshab15/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/madeshab15/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/madeshab15/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/madeshab15/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
@@ -205,4 +207,8 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/madeshab15/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/madeshab15/Leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
