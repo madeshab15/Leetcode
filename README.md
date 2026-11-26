@@ -23,6 +23,7 @@
 | [0217-contains-duplicate](https://github.com/madeshab15/Leetcode/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/madeshab15/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/madeshab15/Leetcode/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/madeshab15/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/madeshab15/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/madeshab15/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/madeshab15/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -54,6 +55,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madeshab15/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/madeshab15/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/madeshab15/Leetcode/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/madeshab15/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/madeshab15/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/madeshab15/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/madeshab15/Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
@@ -70,6 +72,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/madeshab15/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0300-longest-increasing-subsequence](https://github.com/madeshab15/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/madeshab15/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/madeshab15/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/madeshab15/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -198,4 +201,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/madeshab15/Leetcode/tree/master/0070-climbing-stairs) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/madeshab15/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
